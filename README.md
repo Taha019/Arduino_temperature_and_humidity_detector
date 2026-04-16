@@ -10,6 +10,7 @@ This project demonstrates how to interface a DHT11 temperature and humidity sens
 - Arduino board (Uno, Mega, Nano, etc.)
 - DHT11 temperature and humidity sensor
 - Jumper wires
+- Resistor
 - Breadboard (optional)
 - Arduino IDE
 
@@ -26,12 +27,15 @@ This project demonstrates how to interface a DHT11 temperature and humidity sens
 
 ## File Structure
 - `DHT11.ino` - Main Arduino sketch for reading DHT11 sensor data
+- 'Setup_guide.png' - a guide on how to setup the components. 
 - `README.md` - Project documentation (this file)
 
-## License
-This project is provided for educational purposes.
 
 ## Libraries
 
 - Search DHT sensor library → install the one by Adafruit
 - Search Adafruit Unified Sensor → install it (required by DHT)
+
+
+## License
+This project is provided for educational purposes.
