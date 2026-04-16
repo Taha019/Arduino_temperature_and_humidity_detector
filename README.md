@@ -27,7 +27,7 @@ This project demonstrates how to interface a DHT11 temperature and humidity sens
 
 ## File Structure
 - `DHT11.ino` - Main Arduino sketch for reading DHT11 sensor data
-- 'Setup_guide.png' - a guide on how to setup the components. 
+- `Setup_guide.png` - a guide on how to setup the components. 
 - `README.md` - Project documentation (this file)
 
 
